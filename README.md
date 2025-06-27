@@ -18,49 +18,9 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
 
 ## Screenshots
 
-### 👤 [Atyrson Souto da Silva](https://github.com/Atyrson)
+###  [Atyrson Souto da Silva](https://github.com/Atyrson)
 
-#### 🔴 Questões Difíceis
-
-<div align="center">
-
-<table border="1">
-  <thead>
-    <tr>
-      <th>Questão</th>
-      <th>Resolução</th>
-      <th>Vídeo Explicativo</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/">1028. Recover a Tree From Preorder Traversal</a></td>
-      <td><a href="./1028.cpp">1028.cpp</a></td>
-      <td><a href="https://youtu.be/6uUC_Sk6jh0">Link</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/">2290. Minimum Obstacle Removal to Reach Corner</a></td>
-      <td><a href="./2290.cpp">2290.cpp</a></td>
-      <td><a href="https://youtu.be/Y2U1tcmTbOM">Link</a></td>
-    </tr>
-  </tbody>
-</table>
-
-</div>
-
-<div align="center">
-  <p><strong>Imagem 1 - Resolução do exercício 1028</strong></p>
-</div>
-
-![1028](Screenshots/1028.png)
-
-<div align="center">
-  <p><strong>Imagem 2 - Resolução do exercício 2290</strong></p>
-</div>
-
-![2290](Screenshots/2290.png)
-
-#### 🟡 Questão Média
+####  Questões Difíceis
 
 <div align="center">
 
@@ -74,10 +34,14 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://leetcode.com/problems/clone-graph/">133. Clone Graph
-</a></td>
-      <td><a href="./133.cpp">133.cpp</a></td>
-      <td><a href="https://youtu.be/hjWit20eztI">Link</a></td>
+      <td><a href="https://leetcode.com/problems/median-of-two-sorted-arrays/">4. Median of Two Sorted Arrays</a></td>
+      <td><a href="./4.cpp">4.cpp</a></td>
+      <td><a href="#">Link</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://leetcode.com/problems/reverse-pairs/">493. Reverse Pairs</a></td>
+      <td><a href="./493.cpp">493.cpp</a></td>
+      <td><a href="#">Link</a></td>
     </tr>
   </tbody>
 </table>
@@ -85,15 +49,50 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
 </div>
 
 <div align="center">
-  <p><strong>Imagem 3 - Resolução do exercício 133</strong></p>
+  <p><strong>Imagem 1 - Resolução do exercício 4</strong></p>
 </div>
 
-![102](Screenshots/133.png)
+![4](Screenshots/4.png)
+
+<div align="center">
+  <p><strong>Imagem 2 - Resolução do exercício 493</strong></p>
+</div>
+
+![493](Screenshots/493.png)
+
+####  Questão Média
+
+<div align="center">
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Questão</th>
+      <th>Resolução</th>
+      <th>Vídeo Explicativo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://leetcode.com/problems/kth-largest-element-in-an-array/">215. Kth Largest Element in an Array</a></td>
+      <td><a href="./215.cpp">215.cpp</a></td>
+      <td><a href="#">Link</a></td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<div align="center">
+  <p><strong>Imagem 3 - Resolução do exercício 215</strong></p>
+</div>
+
+![215](Screenshots/215.png)
 ---
 
-### 👤 [Gustavo Alves de Souza](https://github.com/gustaallves)
+###  [Gustavo Alves de Souza](https://github.com/gustaallves)
 
-#### 🔴 Questões Difíceis
+####  Questões Difíceis
 
 <div align="center">
 
@@ -133,7 +132,7 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
 
 ![847](Screenshots/847.png)
 
-#### 🟡 Questão Média
+####  Questão Média
 
 <div align="center">
 
