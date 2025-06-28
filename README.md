@@ -108,12 +108,12 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
     <tr>
       <td><a href="https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/">315. Count of Smaller Numbers After Self</a></td>
       <td><a href="./315.py">315.py</a></td>
-      <td><a href="https://youtu.be/XC3G_0KR_h4">Link</a></td>
+      <td><a href="https://youtu.be/tgl_aCQE0kg">Link</a></td>
     </tr>
     <tr>
       <td><a href="https://leetcode.com/problems/count-of-range-sum/">327. Count of Range Sum</a></td>
       <td><a href="./327.py">327.py</a></td>
-      <td><a href="https://youtu.be/XC3G_0KR_h4">Link</a></td>
+      <td><a href="https://youtu.be/GkOsze0j94o">Link</a></td>
     </tr>
   </tbody>
 </table>
@@ -148,7 +148,7 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
     <tr>
       <td><a href="https://leetcode.com/problems/sort-an-array/">912. Sort an Array</a></td>
       <td><a href="./912.py">912.py</a></td>
-      <td><a href="https://youtu.be/XC3G_0KR_h4">Link</a></td>
+      <td><a href="https://youtu.be/0_fsWaB3pBY">Link</a></td>
     </tr>
   </tbody>
 </table>
