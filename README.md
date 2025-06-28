@@ -106,13 +106,13 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://leetcode.com/problems/sum-of-distances-in-tree/">834. Sum of Distances in Tree</a></td>
-      <td><a href="./834.py">834.py</a></td>
+      <td><a href="https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/">315. Count of Smaller Numbers After Self</a></td>
+      <td><a href="./315.py">315.py</a></td>
       <td><a href="https://youtu.be/XC3G_0KR_h4">Link</a></td>
     </tr>
     <tr>
-      <td><a href="https://leetcode.com/problems/shortest-path-visiting-all-nodes/">847. Shortest Path Visiting All Nodes</a></td>
-      <td><a href="./847.py">847.py</a></td>
+      <td><a href="https://leetcode.com/problems/count-of-range-sum/">327. Count of Range Sum</a></td>
+      <td><a href="./327.py">327.py</a></td>
       <td><a href="https://youtu.be/XC3G_0KR_h4">Link</a></td>
     </tr>
   </tbody>
@@ -121,16 +121,16 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
 </div>
 
 <div align="center">
-  <p><strong>Imagem 4 - Resolução do exercício 834</strong></p>
+  <p><strong>Imagem 4 - Resolução do exercício 315</strong></p>
 </div>
 
-![834](Screenshots/834.png)
+![315](Screenshots/315.png)
 
 <div align="center">
-  <p><strong>Imagem 5 - Resolução do exercício 847</strong></p>
+  <p><strong>Imagem 5 - Resolução do exercício 327</strong></p>
 </div>
 
-![847](Screenshots/847.png)
+![327](Screenshots/327.png)
 
 ####  Questão Média
 
@@ -146,8 +146,8 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://leetcode.com/problems/binary-tree-level-order-traversal/">102. Binary Tree Level Order Traversal</a></td>
-      <td><a href="./102.py">102.py</a></td>
+      <td><a href="https://leetcode.com/problems/sort-an-array/">912. Sort an Array</a></td>
+      <td><a href="./912.py">912.py</a></td>
       <td><a href="https://youtu.be/XC3G_0KR_h4">Link</a></td>
     </tr>
   </tbody>
@@ -156,10 +156,10 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
 </div>
 
 <div align="center">
-  <p><strong>Imagem 6 - Resolução do exercício 102</strong></p>
+  <p><strong>Imagem 6 - Resolução do exercício 912</strong></p>
 </div>
 
-![102](Screenshots/102.png)
+![912](Screenshots/912.png)
 
 ---
 
