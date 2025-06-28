@@ -36,12 +36,12 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
     <tr>
       <td><a href="https://leetcode.com/problems/median-of-two-sorted-arrays/">4. Median of Two Sorted Arrays</a></td>
       <td><a href="./4.cpp">4.cpp</a></td>
-      <td><a href="#">Link</a></td>
+      <td><a href="https://youtu.be/bnX9ROROBgg">Link</a></td>
     </tr>
     <tr>
       <td><a href="https://leetcode.com/problems/reverse-pairs/">493. Reverse Pairs</a></td>
       <td><a href="./493.cpp">493.cpp</a></td>
-      <td><a href="#">Link</a></td>
+      <td><a href="https://youtu.be/bnX9ROROBgg">Link</a></td>
     </tr>
   </tbody>
 </table>
@@ -76,7 +76,7 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
     <tr>
       <td><a href="https://leetcode.com/problems/kth-largest-element-in-an-array/">215. Kth Largest Element in an Array</a></td>
       <td><a href="./215.cpp">215.cpp</a></td>
-      <td><a href="#">Link</a></td>
+      <td><a href="https://youtu.be/bnX9ROROBgg">Link</a></td>
     </tr>
   </tbody>
 </table>
